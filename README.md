@@ -18,9 +18,9 @@ Registrar e compartilhar o desenvolvimento das competências adquiridas ao longo
 
 ## Autor
 
-- **Nome:** [Seu Nome]
+- **Nome:** Sergio Augusto Santos Amaral
 - **Curso:** Sistemas de Informação
-- **Instituição:** [Nome da Instituição]
+- **Instituição:** Anhanguera
 
 ---
 
